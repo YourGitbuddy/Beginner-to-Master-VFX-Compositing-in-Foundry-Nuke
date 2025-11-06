@@ -16,7 +16,7 @@ You can paste this directly into GitHub, Notion, or any Markdown viewer — it w
 [![](https://img.shields.io/badge/Level-Advanced-blue?style=flat-square)]()  
 [![](https://img.shields.io/badge/Level-Master-red?style=flat-square)]()
 
-1. [Introduction](https://github.com/YourGitbuddy/Beginner-to-Master-VFX-Compositing-in-Foundry-Nuke/edit/main/README.md#-introduction)  
+1. [Introduction](#introduction)  
 2. [What is Compositing?](#what-is-compositing)  
 3. [Getting Started with Nuke](#getting-started-with-nuke)  
 4. [Beginner Level](#beginner-level)  
