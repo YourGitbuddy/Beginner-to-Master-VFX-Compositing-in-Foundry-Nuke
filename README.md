@@ -1,6 +1,3 @@
-Perfect 💪 — here’s your copy-paste ready Markdown version with Shields.io badges, clean formatting, and bold sectioning for your Nuke Compositing tutorial.
-You can paste this directly into GitHub, Notion, or any Markdown viewer — it will render beautifully.
-
 
 ---
 
